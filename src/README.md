@@ -4,9 +4,9 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: enzyme's blog
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 登云之上，方能远望
 projects:
   - icon: project
     name: 项目名称
@@ -14,9 +14,9 @@ projects:
     link: https://你的项目链接
 
   - icon: link
-    name: 链接名称
+    name: youdu.love
     desc: 链接详细描述
-    link: https://链接地址
+    link: https://www.youdu.love
 
   - icon: book
     name: 书籍名称
